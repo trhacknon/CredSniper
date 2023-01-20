@@ -87,7 +87,7 @@ All modules can be loaded by passing the `--module <name>` command to CredSniper
 You can install and run automatically with the following command:
 
 ```bash
-$ git clone https://github.com/ustayready/CredSniper
+$ git clone https://github.com/trhacknon/CredSniper
 $ cd CredSniper
 ~/CredSniper$ ./install.sh
 ```
@@ -105,18 +105,18 @@ Note that Python 3 is required.
 
 ## Screenshots
 ### Gmail Module
-![GmailLogin](https://raw.githubusercontent.com/ustayready/CredSniper/master/screenshots/gmail_login.png "GmailLogin")
+![GmailLogin](https://raw.githubusercontent.com/trhacknon/CredSniper/master/screenshots/gmail_login.png "GmailLogin")
 
-![GmailPassword](https://raw.githubusercontent.com/ustayready/CredSniper/master/screenshots/gmail_password.png "GmailPassword")
+![GmailPassword](https://raw.githubusercontent.com/trhacknon/CredSniper/master/screenshots/gmail_password.png "GmailPassword")
 
-![GmailSMS](https://raw.githubusercontent.com/ustayready/CredSniper/master/screenshots/gmail_sms.png "GmailSMS")
+![GmailSMS](https://raw.githubusercontent.com/trhacknon/CredSniper/master/screenshots/gmail_sms.png "GmailSMS")
 
-![GmailAuthenticator](https://raw.githubusercontent.com/ustayready/CredSniper/master/screenshots/gmail_authenticator.png "GmailAuthenticator")
+![GmailAuthenticator](https://raw.githubusercontent.com/trhacknon/CredSniper/master/screenshots/gmail_authenticator.png "GmailAuthenticator")
 
-![GmailTouch](https://raw.githubusercontent.com/ustayready/CredSniper/master/screenshots/gmail_touch.png "GmailTouch")
+![GmailTouch](https://raw.githubusercontent.com/trhacknon/CredSniper/master/screenshots/gmail_touch.png "GmailTouch")
 
 ## Maintainer
-- CredSniper was originally created by [Mike Felch](https://github.com/ustayready) ([@ustayready](https://twitter.com/ustayready)) 
+- CredSniper was originally created by [Mike Felch](https://github.com/trhscknon) ([@trhscknon](https://twitter.com/)) 
 
 ## Contributing
 
